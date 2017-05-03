@@ -1,3 +1,3 @@
 # Hieverybody
 iniciation
-/n inicaremos el trabajisimisimo
+inicaremos el trabajisimisimo
